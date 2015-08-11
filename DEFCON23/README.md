@@ -13,5 +13,22 @@ Vulnerabilities discussed are disclosed in the [rednaga/disclosures repo](https:
 
 Some of the resources which where originally provided on the usb drive passed around are available in the [challenges directory](https://github.com/rednaga/training/blob/master/DEFCON23/challenges/).
 
+### Abstract
+
+Thinking like an attacker, you will learn to identify juicy Android targets, reverse engineer them and find vulnerability and write exploits. We will deep dive into reverse engineeriing Android frameworks, applications, services and boot loaders with the end goal of rooting devices.
+
+Approaching from a defensive perspective, we will learn quickly triage applications to determine maliciousness, exploits and weaknesses. After learning triage skills we will deep dive into malicious code along while dealing with packers, obfuscators and anti-reversing techniques.
+
+Between the two aspects of this class, you should walk away with a basic overall of your reversing engineering knowledge and a strong understanding of how to further develop your skills specifically for mobile platforms.
+
+### Prerequisites
+We would expect students to know minimal reverse engineering concepts, would also be good though not required to have some of the following non-free tools;
+
+ - IDA Pro
+ - Hopper
+ - JEB
+
+### Licensing
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 TLDR - free for personal use, commercial use is forbidden unless you contact us and gain permission
